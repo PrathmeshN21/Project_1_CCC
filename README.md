@@ -5,7 +5,6 @@ A rule-based validation tool for Common Corporate Components (CCC) that ensures 
 ---
 
 ## 📌 Features
-
 - ✅ Upload CSV or Excel files  
 - ✅ Rule-based validation engine  
 - ✅ Detects missing / incorrect data  
